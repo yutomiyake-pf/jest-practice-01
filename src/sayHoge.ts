@@ -1,4 +1,4 @@
-const sayHoge = () => {
+const sayHoge = (): string => {
   return "hoge";
 };
 
